@@ -1,0 +1,16 @@
+D:\Proyectos\Valkimia\CSharp\Generics\WiredBrainCoofee.SpecialCase\bin\Debug\net5.0\WiredBrainCoofee.SpecialCase.exe
+D:\Proyectos\Valkimia\CSharp\Generics\WiredBrainCoofee.SpecialCase\bin\Debug\net5.0\WiredBrainCoofee.SpecialCase.deps.json
+D:\Proyectos\Valkimia\CSharp\Generics\WiredBrainCoofee.SpecialCase\bin\Debug\net5.0\WiredBrainCoofee.SpecialCase.runtimeconfig.json
+D:\Proyectos\Valkimia\CSharp\Generics\WiredBrainCoofee.SpecialCase\bin\Debug\net5.0\WiredBrainCoofee.SpecialCase.runtimeconfig.dev.json
+D:\Proyectos\Valkimia\CSharp\Generics\WiredBrainCoofee.SpecialCase\bin\Debug\net5.0\WiredBrainCoofee.SpecialCase.dll
+D:\Proyectos\Valkimia\CSharp\Generics\WiredBrainCoofee.SpecialCase\bin\Debug\net5.0\ref\WiredBrainCoofee.SpecialCase.dll
+D:\Proyectos\Valkimia\CSharp\Generics\WiredBrainCoofee.SpecialCase\bin\Debug\net5.0\WiredBrainCoofee.SpecialCase.pdb
+D:\Proyectos\Valkimia\CSharp\Generics\WiredBrainCoofee.SpecialCase\obj\Debug\net5.0\WiredBrainCoofee.SpecialCase.csproj.AssemblyReference.cache
+D:\Proyectos\Valkimia\CSharp\Generics\WiredBrainCoofee.SpecialCase\obj\Debug\net5.0\WiredBrainCoofee.SpecialCase.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\Valkimia\CSharp\Generics\WiredBrainCoofee.SpecialCase\obj\Debug\net5.0\WiredBrainCoofee.SpecialCase.AssemblyInfoInputs.cache
+D:\Proyectos\Valkimia\CSharp\Generics\WiredBrainCoofee.SpecialCase\obj\Debug\net5.0\WiredBrainCoofee.SpecialCase.AssemblyInfo.cs
+D:\Proyectos\Valkimia\CSharp\Generics\WiredBrainCoofee.SpecialCase\obj\Debug\net5.0\WiredBrainCoofee.SpecialCase.csproj.CoreCompileInputs.cache
+D:\Proyectos\Valkimia\CSharp\Generics\WiredBrainCoofee.SpecialCase\obj\Debug\net5.0\WiredBrainCoofee.SpecialCase.dll
+D:\Proyectos\Valkimia\CSharp\Generics\WiredBrainCoofee.SpecialCase\obj\Debug\net5.0\ref\WiredBrainCoofee.SpecialCase.dll
+D:\Proyectos\Valkimia\CSharp\Generics\WiredBrainCoofee.SpecialCase\obj\Debug\net5.0\WiredBrainCoofee.SpecialCase.pdb
+D:\Proyectos\Valkimia\CSharp\Generics\WiredBrainCoofee.SpecialCase\obj\Debug\net5.0\WiredBrainCoofee.SpecialCase.genruntimeconfig.cache

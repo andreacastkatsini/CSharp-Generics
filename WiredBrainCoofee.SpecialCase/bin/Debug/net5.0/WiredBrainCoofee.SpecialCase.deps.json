@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "WiredBrainCoofee.SpecialCase/1.0.0": {
+        "runtime": {
+          "WiredBrainCoofee.SpecialCase.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WiredBrainCoofee.SpecialCase/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

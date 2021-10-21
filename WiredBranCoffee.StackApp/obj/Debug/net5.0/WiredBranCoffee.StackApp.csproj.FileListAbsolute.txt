@@ -1,0 +1,16 @@
+D:\Proyectos\Valkimia\CSharp\Generics\WiredBranCoffee.StackApp\bin\Debug\net5.0\WiredBranCoffee.StackApp.exe
+D:\Proyectos\Valkimia\CSharp\Generics\WiredBranCoffee.StackApp\bin\Debug\net5.0\WiredBranCoffee.StackApp.deps.json
+D:\Proyectos\Valkimia\CSharp\Generics\WiredBranCoffee.StackApp\bin\Debug\net5.0\WiredBranCoffee.StackApp.runtimeconfig.json
+D:\Proyectos\Valkimia\CSharp\Generics\WiredBranCoffee.StackApp\bin\Debug\net5.0\WiredBranCoffee.StackApp.runtimeconfig.dev.json
+D:\Proyectos\Valkimia\CSharp\Generics\WiredBranCoffee.StackApp\bin\Debug\net5.0\WiredBranCoffee.StackApp.dll
+D:\Proyectos\Valkimia\CSharp\Generics\WiredBranCoffee.StackApp\bin\Debug\net5.0\ref\WiredBranCoffee.StackApp.dll
+D:\Proyectos\Valkimia\CSharp\Generics\WiredBranCoffee.StackApp\bin\Debug\net5.0\WiredBranCoffee.StackApp.pdb
+D:\Proyectos\Valkimia\CSharp\Generics\WiredBranCoffee.StackApp\obj\Debug\net5.0\WiredBranCoffee.StackApp.csproj.AssemblyReference.cache
+D:\Proyectos\Valkimia\CSharp\Generics\WiredBranCoffee.StackApp\obj\Debug\net5.0\WiredBranCoffee.StackApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\Valkimia\CSharp\Generics\WiredBranCoffee.StackApp\obj\Debug\net5.0\WiredBranCoffee.StackApp.AssemblyInfoInputs.cache
+D:\Proyectos\Valkimia\CSharp\Generics\WiredBranCoffee.StackApp\obj\Debug\net5.0\WiredBranCoffee.StackApp.AssemblyInfo.cs
+D:\Proyectos\Valkimia\CSharp\Generics\WiredBranCoffee.StackApp\obj\Debug\net5.0\WiredBranCoffee.StackApp.csproj.CoreCompileInputs.cache
+D:\Proyectos\Valkimia\CSharp\Generics\WiredBranCoffee.StackApp\obj\Debug\net5.0\WiredBranCoffee.StackApp.dll
+D:\Proyectos\Valkimia\CSharp\Generics\WiredBranCoffee.StackApp\obj\Debug\net5.0\ref\WiredBranCoffee.StackApp.dll
+D:\Proyectos\Valkimia\CSharp\Generics\WiredBranCoffee.StackApp\obj\Debug\net5.0\WiredBranCoffee.StackApp.pdb
+D:\Proyectos\Valkimia\CSharp\Generics\WiredBranCoffee.StackApp\obj\Debug\net5.0\WiredBranCoffee.StackApp.genruntimeconfig.cache
